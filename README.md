@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khushbushah2928@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14_ZIP59rAWh9A2qNvhgeghqvGBJ4uHzL/view?usp=sharing](https://drive.google.com/file/d/14_ZIP59rAWh9A2qNvhgeghqvGBJ4uHzL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AMOZIrQNdktz-6i2TKgoBvQFZxp-DC1L/view?usp=sharing](https://drive.google.com/file/d/1AMOZIrQNdktz-6i2TKgoBvQFZxp-DC1L/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can conquer the world**
 
