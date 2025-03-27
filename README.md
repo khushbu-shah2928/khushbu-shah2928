@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushbu Shah</h1>
-<h3 align="center">A passionate Data Science enthusiast and Aspiring Software Engineer from India</h3>
+<h3 align="center"> A Machine Learning and Data Science Enthusiast with a Gold Medal in my M.Tech Computer Engineering Degree</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu-shah2928&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu-shah2928" /> </p>
 
