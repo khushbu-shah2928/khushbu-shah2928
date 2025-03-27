@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu-shah2928" alt="khushbu-shah2928" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end development**
+- 🔭 I’m currently working on **AI / ML**
 
-- 🌱 I’m currently learning **Front-end development, Data Science**
+- 🌱 I’m currently learning **Data Science**
 
 - 😄 Pronouns: **She / Her**
 
