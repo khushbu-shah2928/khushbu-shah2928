@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Science/ AI-ML**
 
-- 📫 How to reach me **khushbushah2928@gmail.com**
+- 📫 How to reach me **khushbushah3132@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AMOZIrQNdktz-6i2TKgoBvQFZxp-DC1L/view?usp=sharing](https://drive.google.com/file/d/1AMOZIrQNdktz-6i2TKgoBvQFZxp-DC1L/view?usp=sharing)
 
